@@ -6,5 +6,9 @@
     "Michael Rojas"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/rojasmi1/react-webpack-starter-kit"
+  "homepage": "https://github.com/rojasmi1/react-webpack-starter-kit",
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "bootstrap": "boostrap#^3.3.7"
+  }
 }
