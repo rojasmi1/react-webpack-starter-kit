@@ -1,0 +1,10 @@
+{
+  "name": "react-pluralsight-game",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Michael Rojas"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/rojasmi1/react-webpack-starter-kit"
+}
